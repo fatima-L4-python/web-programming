@@ -1,0 +1,22 @@
+p {
+  color: #333;
+
+}
+body{
+  background-color: #8ea8c9;
+}
+img{
+  padding: 10px; 
+}
+img{
+  border: 1px solid #fff;
+}
+h1{
+  text-align: center;
+}
+ul{
+  margin: 20px;
+}
+p{
+  font-size: 16px;
+}
